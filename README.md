@@ -1,4 +1,7 @@
-# test coverage for  [scuttlebutt (v5.6.15)](https://github.com/dominictarr/scuttlebutt)  [![npm package](https://img.shields.io/npm/v/npmtest-scuttlebutt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scuttlebutt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scuttlebutt.svg)](https://travis-ci.org/npmtest/node-npmtest-scuttlebutt)
+# npmtest-scuttlebutt
+
+#### basic test coverage for  [scuttlebutt (v5.6.15)](https://github.com/dominictarr/scuttlebutt)  [![npm package](https://img.shields.io/npm/v/npmtest-scuttlebutt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scuttlebutt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scuttlebutt.svg)](https://travis-ci.org/npmtest/node-npmtest-scuttlebutt)
+
 #### replicate data via scuttlebutt protocol
 
 [![NPM](https://nodei.co/npm/scuttlebutt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/scuttlebutt)
